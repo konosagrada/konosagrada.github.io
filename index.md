@@ -1,14 +1,12 @@
 ![konoko Logo](./tsukinosuna.jpg)
-```markdown
 # KONO SAGRADA
-```
 ![SAGRADA RESET Logo](./contents_visual_logo.png)
 
 ## 河野裕粉丝罕至之处
 ![SAGRADA](./db917aaa90e22086b79e9db999bfe3d0.JPG)<br/>
 **··河野裕作品相关信息部落格（管理员2015年后没有更新）:**[http://sakuradafan.web.fc2.com/works.html](http://sakuradafan.web.fc2.com/works.html)
 ## 别处的kinoko 
-![SAGRADA Logo](./konosagrada.png)
+![SAGRADA Logo](./konosagrada.png)<br/>
 **··bangumi:**[https://bgm.tv/user/420702](https://bgm.tv/user/420702)
 **··bilibili:**[https://space.bilibili.com/1593799](https://space.bilibili.com/1593799)
 ## HUB
