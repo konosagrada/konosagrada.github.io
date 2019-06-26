@@ -1,5 +1,5 @@
 # **KONO SAGRADA**
-![SAGRADA Logo](/images/logo.png)
+![SAGRADA Logo](./tsukinosuna.jpg)
 
 ## HUB
 ### **[MARKDOWN](https://guides.github.com/features/mastering-markdown/)**
