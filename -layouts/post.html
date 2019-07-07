@@ -1,0 +1,19 @@
+---
+layout: page_body
+---
+<div id='post'>
+    <span class='title'>{{ page.title | markdownify }}</span>
+    <div class='sub_title'>
+        <span>日期: {{ page.date | date: '%Y-%m-%d' }}</span>
+        <span>更新: {{ page.date | date: '%Y-%m-%d' }}</span>
+        <span>分类: {{ page.categories }}</span>
+    </div>
+    <div class='contest'>{{ content }}</div>
+    <div class='card_footer'>
+        <ul>
+            {% for tag in page.tags %}
+            <li>#{{ tag }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
