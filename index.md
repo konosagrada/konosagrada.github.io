@@ -1,3 +1,9 @@
+---
+layout: page_body
+title: 首页
+icon: icon-guanfangbanben
+priority: 1
+---
 ![konoko Logo](assets/images/tsukinosuna.jpg)
 # KONO SAGRADA
 ![SAGRADA RESET Logo](assets/images/contents_visual_logo.png)
