@@ -1,8 +1,8 @@
 # Site setting
-title: 阔落的博客
-github_username: 'kuoluo1995@gmail.com'
-email: '799178334@qq.com'
-footer_description: '不会写前端的Java程序员，不是个好的深度学习研究者'
+title: 想的
+github_username: '该4407143@gmail.com'
+email: '491323894@qq.com'
+footer_description: '不会翻译思想的作家，不是个好读者 （雾）'
 
 markdown: kramdown
 sass:
