@@ -1,6 +1,6 @@
 ---
 layout: page_body
-title: この　サクラダ
+title: このサクラダ
 icon: icon-changjingguanli
 priority: 3
 ---
