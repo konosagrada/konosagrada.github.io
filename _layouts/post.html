@@ -5,7 +5,7 @@ layout: page_body
     <span class='title'>{{ page.title | markdownify }}</span>
     <div class='sub_title'>
         <span>日期: {{ page.date | date: '%Y-%m-%d' }}</span>
-        <span>更新: {{ page.date | date: '%Y-%m-%d' }}</span>
+        <span>更新: {{ page.update | date: '%Y-%m-%d' }}</span>
         <span>分类: {{ page.categories }}</span>
     </div>
     <div class='contest'>{{ content }}</div>
