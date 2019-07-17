@@ -8,8 +8,8 @@ priority: 1
 # KONO SAGRADA
 <br/>
 Navigation を見てね<br/>
------------------------------------
+-----------------------------------<br/>
 
-![KONO](assets/images/BACKGROUND.JPG)
+![KONO](assets/images/background.jpg)
 
 

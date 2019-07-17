@@ -10,8 +10,8 @@ priority: 3
 ![SAGRADA](images/db917aaa90e22086b79e9db999bfe3d0.JPG)<br/>
 **··咲良田时间线**
 （相信不用汉化也都能看得懂）
-![TIMELINE1](images/img_timeline01.JPG)<br/>
-![TIMELINE2](images/img_timeline02.JPG)<br/>
-![TIMELINE3](images/img_timeline03.JPG)<br/>
+![TIMELINE1](images/img_timeline01.jpg)<br/>
+![TIMELINE2](images/img_timeline02.jpg)<br/>
+![TIMELINE3](images/img_timeline03.jpg)<br/>
 
 
