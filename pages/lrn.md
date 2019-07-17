@@ -1,10 +1,10 @@
 ---
 layout: page_body
-title: lrn
+title: 勉強し
 icon: icon-changjingguanli
 priority: 4
 ---
-### ![KEI LOGO](assets/images/2017120326.gif) **[>MARKDOWN<](https://guides.github.com/features/mastering-markdown/)** 
+### ![KEI LOGO](images/2017120326.gif) **[>MARKDOWN<](https://guides.github.com/features/mastering-markdown/)** 
 You can use the [editor on GitHub](https://github.com/konosagrada/konosagrada.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
